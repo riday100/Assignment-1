@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/*------- section1--------*/
 .first-section{
     display: flex;
 }
@@ -8,19 +9,16 @@ body{
     width: 50%;
     margin-left: 8%;
 }
-.half-width img{
-    width:50%;
-    padding-left:10%;
+.half-width img {
+    width: 50%;
+    padding-left: 21%;
 }
 
-
 h1{
-    font-size:50px;
-    
+    font-size:50px;   
 }
 span{
     color:#FFAD5A;
-
 }
 a{
     background:#FF5959;
@@ -36,8 +34,7 @@ a{
     
 }
 
-
-/* section -2*/
+/*------- section2--------*/
 
 .section2-body{
     display: flex;
@@ -69,7 +66,7 @@ a{
     background:#FFF4D6;
 }
 
-/*  section-3  */
+/*------- section3--------*/
 
 .section-flex{
     display:flex;
@@ -88,7 +85,7 @@ a{
     
 }
 
-/* section -4*/
+/*------- section4--------*/
 
 .sectino4-left{
     width:40%;
@@ -102,7 +99,7 @@ a{
     padding-left:20%;
 }
 
-/*section-5*/
+/*------- section5--------*/
 .section-5-heading {
     text-align: center;
     margin-bottom: 119px;
@@ -111,7 +108,8 @@ a{
     width:50%;
 }
 .section-5-right {
-    width: 35%;
+    width: 44%;
+    text-align: justiify;
 }
 .section-5-left img{
     padding-left:20%;
@@ -119,7 +117,7 @@ a{
 
 
 
-/* footer sectio*/
+/*------- footer section--------*/
 
 footer{
     display:block;
