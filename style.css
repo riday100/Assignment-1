@@ -101,5 +101,15 @@ a{
 
 
 
+/* footer sectio*/
+
+footer{
+    display:block;
+    background:black;
+    text-align: center;
+    padding:35px;
+    color:white;
+    
+}
 
 
